@@ -11,7 +11,7 @@ repository:
   homepage: ""
 
   # A comma-separated list of topics to set on the repository
-  topics: "hacktoberfest,nixos-configuration,nix-flake,nixos-dotfiles"
+  topics: "nixos-configuration,nix-flake,nixos-dotfiles"
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
